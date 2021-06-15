@@ -12,3 +12,11 @@ area = PI*r^2
 (pi*r^2)/(2*r^2) = in_circle_points/all_points
 pi = (4*in_circle_points)/all_points
 
+
+
+
+16.06.2021
+
+Python 3.9.4
+
+Package: random, math, matplotlib
